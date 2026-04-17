@@ -4,7 +4,6 @@ class Kit < Formula
   url "https://github.com/zaidhassan168/aks-tools/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "5aa0065b1cad00d570a4647697aa083f0b611f3a234c1339177d1f024f652dcc"
   license "MIT"
-  version "1.0.0"
 
   depends_on "azure-cli"
   depends_on "kubernetes-cli"
