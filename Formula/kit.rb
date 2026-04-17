@@ -12,8 +12,6 @@ class Kit < Formula
 
   def install
     bin.install "kit/kit"
-    bin.install "aksc/aksc"
-    bin.install "aksm/aksm"
   end
 
   test do
