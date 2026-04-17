@@ -1,14 +1,12 @@
-# homebrew-kit
+# homebrew-aks-tools
 
 Homebrew tap for [`kit`](https://github.com/zaidhassan168/aks-tools) — the Kubernetes Interactive Toolkit for Azure Kubernetes Service.
 
 ## Install
 
 ```bash
-brew install zaidhassan168/kit/kit
+brew install zaidhassan168/aks-tools/kit
 ```
-
-That's it. The formula installs `kit`, plus the legacy `aksc` and `aksm` shims.
 
 ## Update
 
@@ -20,7 +18,7 @@ brew update && brew upgrade kit
 
 ```bash
 brew uninstall kit
-brew untap zaidhassan168/kit
+brew untap zaidhassan168/aks-tools
 ```
 
 ## Source
