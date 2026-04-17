@@ -1,8 +1,8 @@
 class Kit < Formula
   desc "Kubernetes Interactive Toolkit for Azure Kubernetes Service (AKS)"
   homepage "https://github.com/zaidhassan168/aks-tools"
-  url "https://github.com/zaidhassan168/aks-tools/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "9afc37f8ff16ec1e3c5c1bb0b6b9ab26c421f419e7c8d7fd432251af2b41ecea"
+  url "https://github.com/zaidhassan168/aks-tools/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "4b551d1e8d1081e939c431a691149dbc1bb0fa6cd92cc30e831270d89751f73f"
   license "MIT"
 
   depends_on "azure-cli"
